@@ -14,7 +14,7 @@ export default defineConfig({
 					label: 'OpenAI',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Sora', link: '/openai/why-chatgpt-sora-works-so-powerfully/' },
+						{ label: 'Why ChatGPT Sora Works So Powerfully?', link: '/openai/why-chatgpt-sora-works-so-powerfully/' },
 					],
 				},
 				{
